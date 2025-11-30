@@ -1,45 +1,76 @@
-📀 GCL Studio Pro v2.0
-Professional Multi-Track Recording Suite for Audio + Video Creation
+🎛️ GCL Studio Pro
+Professional Multi-Track Recording Suite with AI Workflow Automation
 
-GCL Studio Pro is a next-generation recording environment designed for creators who need synchronized multi-track audio, live video preview, GPU-accelerated encoding, and social-media-ready exporting — all inside one clean, Python-based workflow.
+GCL Studio Pro is a powerful, lightweight, multi-track audio/video recording suite built for creators who want synchronized recording, fast workflow automation, GPU-accelerated encoding, and social-media-ready exports.
 
-Whether you're recording podcasts, YouTube tutorials, worship sets, voiceovers, or mobile content, GCL Studio Pro provides you with a powerful, modular toolkit built for speed, clarity, and ease of use.
+Designed for podcasters, musicians, preachers, YouTubers, streamers, and teams who want pro-level simplicity.
 
-🚀 Core Features
-🎙️ Multi-Track Audio Recording
+🚀 Key Features
+🎤 Multi-Track Recording
 
-Record multiple audio tracks simultaneously with synchronized timing and clean WAV output.
+Record multiple audio/video sources at once
 
-🎥 Live Camera Preview
+Perfect sync across all inputs
 
-Real-time preview window using OpenCV for accurate framing and monitoring.
+Automatic project organization
 
-⚡ GPU-Accelerated Video Encoding
+Optional track isolation and grouping
 
-Harness GPU power (when available) for lightning-fast processing and exports.
+🎥 Video Preview + Management
 
-🔄 Auto-Merge Engine
+Live camera previews
 
-Automatically merges multi-track audio with video output, aligned frame-by-frame.
+Multiple webcam support
 
-📤 Export Manager
+Integrated recording manager
 
-One-click exporting in formats optimized for
+Auto-saved project files
 
-YouTube
+⚡ GPU-Accelerated Exports
 
-TikTok
+Fast H.264 / MP4 encoding
 
-Instagram
+Real-time rendering
 
-Facebook
+Social-media-ready export presets
 
-Local archival
+🧩 Built-In Tools
 
-🧪 Built-In Test Suite
+QuickStart guide
 
-Includes utilities for installation testing and device verification.
+Session manager
 
-🧱 Modular Architecture
+Export manager
 
-Everything is built as standalone components so you can extend or customize the system easily.
+Multi-track player
+
+Auto-merge logic (planned)
+
+🤖 AI-Powered Features
+
+GCL Studio Pro includes an integrated AI engine that enhances workflow speed and quality.
+
+Current AI Capabilities
+
+🧠 Smart Track Naming
+Automatically detects and labels sources logically.
+
+📁 AI Project Structuring
+Handles folders, metadata, project files, and export setup.
+
+✨ Auto Clean-Up Recommendations
+Suggests noise reduction, leveling, sync correction, and gain balancing.
+
+📝 AI Recording Notes
+Generates optional summary notes for podcast episodes, music takes, or sermon sessions.
+
+📤 AI Export Helper
+Guides you to the optimal export format for each platform.
+
+Planned AI Features
+
+🔀 AI Smart Auto-Merge
+Automatically merges multi-track sessions with perfect sync.
+
+⚙️ Workflow Optimization
+Learns your habits and suggests the fastest steps automatically.
